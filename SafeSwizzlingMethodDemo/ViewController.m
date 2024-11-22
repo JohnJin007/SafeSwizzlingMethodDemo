@@ -15,7 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Test
+    // NSArray
     [NSArray arrayWithObject:nil];
 }
 
